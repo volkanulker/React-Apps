@@ -9,7 +9,7 @@ Search for buildings:
 Once the second video is clicked:
 ![Image when current season is Winter](https://github.com/volkanulker/React-Apps/blob/main/Assets/youtube-search-app/buildings-selected.jpg?raw=true)
 
-Search for forets:
+Search for forests:
 ![Image when current season is Summer](https://github.com/volkanulker/React-Apps/blob/main/Assets/youtube-search-app/forests.jpg?raw=true)
 
 Once the fourth video is clicked:
